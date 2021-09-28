@@ -1,0 +1,9 @@
+LICENSE
+README.rst
+setup.py
+tinydatabase/__init__.py
+tinydatabase.egg-info/PKG-INFO
+tinydatabase.egg-info/SOURCES.txt
+tinydatabase.egg-info/dependency_links.txt
+tinydatabase.egg-info/requires.txt
+tinydatabase.egg-info/top_level.txt
